@@ -36,6 +36,6 @@
     "sinon": "^7.3.1"
   },
   "dependencies": {
-    "expect": "^24.7.1"
+    "expect": "^29.7.0"
   }
 }
